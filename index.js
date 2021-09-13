@@ -35,9 +35,9 @@ const { ind } = require('./language')
 /********** MENU SETTING **********/
 const vcard = 'BEGIN:VCARD\n' 
             + 'VERSION:3.0\n' 
-            + 'FN:Fico Shopp\n' 
-            + 'ORG: Pengembang Fico Shopp;\n' 
-            + 'TEL;type=CELL;type=VOICE;waid=6285864236900:+62 858-6423-6900\n' 
+            + 'FN:Fico Rizqulah Ramadhan\n' 
+            + 'ORG: Pengembang Fico Rizqulah Ramadhan;\n' 
+            + 'TEL;type=CELL;type=VOICE;waid=6285161006914:+62 851-6100-6914\n' 
             + 'END:VCARD' 
 blocked = []   
 prefix = '#'
@@ -47,7 +47,7 @@ cr = '*BOT INI SUDAH TERVERIFIKASI*'
 /*************************************/
 
 /******** OWNER NUMBER**********/
-const ownerNumber = ["6285864236900@s.whatsapp.net","6285864236900@s.whatsapp.net"] 
+const ownerNumber = ["6285161006914@s.whatsapp.net","6285161006914@s.whatsapp.net"] 
 /************************************/
 
        
